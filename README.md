@@ -7,8 +7,8 @@ This is a modified version of the [Quickfort Community Blueprints v2.2]( http://
 Check out the readme for each section.
 
 
- * [Artistic](https://github.com/Lazy-Newb-Pack/Quickfort-Community-Blueprints/blob/master/Bedrooms/README.md)
- * Bedrooms
+ * Artistic
+ * [Bedrooms](https://github.com/Lazy-Newb-Pack/Quickfort-Community-Blueprints/blob/master/Bedrooms/README.md)
  * Examples
  * Fractals
  * Hallways
